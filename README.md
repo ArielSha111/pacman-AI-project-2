@@ -71,8 +71,8 @@ The autograder will run your agent on the smallClassic layout 10 times.
 
 # viewing the code
 ## the main code that was not given and needed to be written by me located in the next filles:
-1. search.py
-1. searchAgent.py
+1. multiAgents.py
+
 
 ## Files you might want to look at:
 1. pacman.py
